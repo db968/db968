@@ -50,6 +50,8 @@ I'm David, a passionate Java developer with a strong focus on building scalable 
 <!-- GitHub Statistics -->
 ## GitHub Statistics
 
+<p>&nbsp;</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=db968&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
